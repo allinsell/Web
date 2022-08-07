@@ -1,1 +1,1 @@
-Hi, this is my persona website.
+Hi, this is my personal website.
